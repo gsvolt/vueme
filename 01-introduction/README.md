@@ -1,1 +1,1 @@
-hello world vuejs sample from scrimba.com
+hello world vuejs sample from https://vuejs.org/v2/guide/
